@@ -11,7 +11,7 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""**Hey, I'm {bn} 🎵
 
-I can play music in your group's voice call. Developed by [Hexor](https://t.me/its_Hexor).
+I can play music in your group's voice call. Developed by [MAXWiN](https://t.me/PapaMAXWiN).
 
 Add me to your group and play music freely!**
         """,
@@ -22,10 +22,10 @@ Add me to your group and play music freely!**
                         "🛠 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🛠", url="https://github.com/Hexor752/SankiiMusic")
                   ],[
                     InlineKeyboardButton(
-                        "💬 ɢʀᴏᴜᴘ", url="https://t.me/SankiiPublic"
+                        "💬 ɢʀᴏᴜᴘ", url="https://t.me/PoisonnFighters"
                     ),
                     InlineKeyboardButton(
-                        "🔊 ᴏᴡɴᴇʀ", url="https://t.me/its_Hexor"
+                        "🔊 ᴏᴡɴᴇʀ", url="https://t.me/PapaMAXWiN"
                     )
                 ],[ 
                     InlineKeyboardButton(
@@ -43,7 +43,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 ᴏᴡɴᴇʀ", url="https://t.me/Its_Hexor")
+                        "🔊 ᴏᴡɴᴇʀ", url="https://t.me/PapaMAXWiN")
                 ]
             ]
         )
