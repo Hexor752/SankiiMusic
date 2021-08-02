@@ -19,13 +19,13 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🛠", url="https://github.com/Hexor752/SankiiMusic")
+                        "🛠 ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🛠", url="https://github.com/Hexor7/SankiiMusic")
                   ],[
                     InlineKeyboardButton(
-                        "💬 ɢʀᴏᴜᴘ", url="https://t.me/SankiiPublic"
+                        "💬 ɢʀᴏᴜᴘ", url="https://t.me/LOVExWORD"
                     ),
                     InlineKeyboardButton(
-                        "🔊 ᴏᴡɴᴇʀ", url="https://t.me/its_Hexor"
+                        "🔊 ᴏᴡɴᴇʀ", url="https://t.me/Xd_Lif"
                     )
                 ],[ 
                     InlineKeyboardButton(
@@ -43,7 +43,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 ᴏᴡɴᴇʀ", url="https://t.me/Its_Hexor")
+                        "🔊 ᴏᴡɴᴇʀ", url="https://t.me/Xd_Lif")
                 ]
             ]
         )
